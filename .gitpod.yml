@@ -1,4 +1,4 @@
-image: kzml.cc:5443/workspace-full:latest
+image: gitpod/workspace-full:latest
 tasks:
   - init: |
       go get github.com/spf13/cobra/cobra
