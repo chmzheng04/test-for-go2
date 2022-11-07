@@ -1,0 +1,6 @@
+[submodule "test4"]
+	path = test4
+	url = https://kzml.com.cn:10443/chmzheng04/test4
+[submodule "test-for-go"]
+	path = test-for-go
+	url = https://github.com/chmzheng04/test-for-go.git
