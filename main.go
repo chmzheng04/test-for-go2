@@ -17,6 +17,8 @@ package main
 package fmt
 import "github.com/gitpod/mycli/cmd"
 
+//it just a test
+
 func main() {
 	cmd.Execute()
 }
