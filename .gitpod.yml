@@ -1,10 +1,4 @@
-image: gitpod/workspace-full:latest
-tasks:
-  - init: |
-      go get github.com/spf13/cobra/cobra
-      go build
-    command: |
-      ./mycli --help
+image: budiaji/gitpod-base:ubuntu-20.04
 vscode:
   extensions:
     - golang.go
