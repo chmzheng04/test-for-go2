@@ -8,6 +8,11 @@ Click the button below to start a new development environment:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-golang-cli)
 
+You can also run this project on Codeanywhere:
+
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/gitpod-io/template-golang-cli)
+
 ## Get Started With Your Own Project
 
 ### A new project
