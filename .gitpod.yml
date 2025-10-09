@@ -2,3 +2,8 @@ image: budiaji/gitpod-base:ubuntu-20.04
 vscode:
   extensions:
     - golang.go
+tasks:
+  - name: Setup GitHub CLI Auth
+    init: |
+      bash /workspace/gitpod/dev/setup-github-auth.sh
+      exit 0
