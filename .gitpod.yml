@@ -4,6 +4,6 @@ vscode:
     - golang.go
 tasks:
   - name: Setup GitHub CLI Auth
-    init: |
+    command: |
       bash /workspace/gitpod/dev/setup-github-auth.sh
       exit 0
